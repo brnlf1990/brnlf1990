@@ -15,5 +15,5 @@ Also, I can speak Portuguese, Japanese and English.
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=brnlf1990 alt=brnlf1990 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=brnlf1990&show_icons=true&include_all_commits=true)](https://github.com/brnlf1990/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnlf1990&layout=compact)](https://github.com/brnlf1990/github-readme-stats)
