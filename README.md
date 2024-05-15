@@ -1,7 +1,9 @@
 
 ## My name is Bruno Lopes Furuya
 [![Gmail Badge](https://img.shields.io/badge/-brnlf1990@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brnlf1990@gmail.com)](mailto:brnlf1990@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-brunolopes-furuya-242021230-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolopes-furuya-242021230/)](https://www.linkedin.com/in/brunolopes-furuya-242021230/)   [![Github Badge](https://img.shields.io/badge/-brnlf1990-grey?style=flat&logo=github&logoColor=white&link=https://github.com/brnlf1990/)](https://www.github.com/brnlf1990/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/brnlf1990/)](https://github.com/brnlf1990/) <p align='left'>I am Web Developer and my main language is JavaScript, but I hava knowledge in HTML and CSS. I am learning about asynchronous programming  with JavaScript. 
+<a href="https://linkedin.com/in/bruno-lopes-furuya-242021230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-lopes-furuya-242021230" height="30" width="40" /></a>
+</p>
+   [![Github Badge](https://img.shields.io/badge/-brnlf1990-grey?style=flat&logo=github&logoColor=white&link=https://github.com/brnlf1990/)](https://www.github.com/brnlf1990/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/brnlf1990/)](https://github.com/brnlf1990/) <p align='left'>I am Web Developer and my main language is JavaScript, but I hava knowledge in HTML and CSS. I am learning about asynchronous programming  with JavaScript. 
 
 I have two certifications in AWS, these are Cloud Practitioner and  Solutions Architect Associate. I can create instances in AWS and put websites on this instances.
 
