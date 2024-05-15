@@ -10,7 +10,7 @@ I have two certifications in AWS, these are Cloud Practitioner and  Solutions Ar
 
 I study Software Engineer at the Universidade Cruziero do Sul in Brazil(Online university) and Web Developing at the Tripleten(Online Bootcamp).
 
-I'm can speak Portuguese, Japanese and English.
+Also, I can speak Portuguese, Japanese and English.
 </p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=brnlf1990 alt=brnlf1990 /> </p>
