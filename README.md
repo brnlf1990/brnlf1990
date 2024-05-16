@@ -16,5 +16,19 @@ Also, I can speak Portuguese, Japanese and English.
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=brnlf1990 alt=brnlf1990 /> </p>
 
+My technical skills:
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnlf1990&layout=compact)](https://github.com/brnlf1990/github-readme-stats)
+
+About me
+I'm in my second year of college
+I love my wife!
+One piece is the best manga ever!
