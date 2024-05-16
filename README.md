@@ -31,7 +31,4 @@ Also, I can speak Portuguese, Japanese and English.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnlf1990&layout=compact)](https://github.com/brnlf1990/github-readme-stats)
 
-About me
-I'm in my second year of college
-I love my wife!
-One piece is the best manga ever!
+
