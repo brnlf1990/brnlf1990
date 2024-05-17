@@ -27,8 +27,6 @@ Also, I can speak Portuguese, Japanese and English.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnlf1990&layout=compact)](https://github.com/brnlf1990/github-readme-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bruno-lopes-furuya-242021230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-lopes-furuya-242021230" height="30" width="40" /></a>
