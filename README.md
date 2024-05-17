@@ -1,4 +1,4 @@
-##Certified by AWS
+<h3 align="left">Certified by AWS</h3>
  <a href="https://www.credly.com/badges/bdb511ee-117f-47ec-acbc-e320fac75ec4/public_url" target="blank"><img align="center" src="https://github.com/brnlf1990/brnlf1990/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="solutions architect badge" height="80" width="80" /></a>
   <a href="https://www.credly.com/badges/4817b978-f76b-496c-820f-8b31c39d9650/public_url" target="blank"><img align="center" src="https://github.com/brnlf1990/brnlf1990/blob/main/aws-certified-cloud-practitioner.png?raw=true" alt="cloud practitioner badge" height="80" width="80" /></a>
   
