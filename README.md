@@ -27,7 +27,7 @@ Also, I can speak Portuguese, Japanese and English.
 <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bdb511ee-117f-47ec-acbc-e320fac75ec4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnlf1990&layout=compact)](https://github.com/brnlf1990/github-readme-stats)
 
