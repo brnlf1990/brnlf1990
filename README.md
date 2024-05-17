@@ -1,5 +1,5 @@
 <h3 align="left">Certified by AWS</h3>
- <a href="https://www.credly.com/badges/bdb511ee-117f-47ec-acbc-e320fac75ec4/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-lopes-furuya-242021230" height="30" width="40" /></a>
+ <a href="https://www.credly.com/badges/bdb511ee-117f-47ec-acbc-e320fac75ec4/public_url" target="blank"><img align="center" src="https://github.com/brnlf1990/brnlf1990/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="bruno-lopes-furuya-242021230" height="30" width="40" /></a>
  
 ## My name is Bruno
 <h3 align="left">Connect with me:</h3>
