@@ -13,8 +13,6 @@ However, I am studying Software Engineer at the Universidade Cruziero do Sul in 
 
 Also, I can speak Portuguese, Japanese and English.
 </p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=brnlf1990 alt=brnlf1990 /> </p>
 
 <p br>My technical skills:</p>
 <div /br> 
