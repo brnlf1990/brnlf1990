@@ -1,4 +1,4 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bdb511ee-117f-47ec-acbc-e320fac75ec4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## My name is Bruno
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,7 @@ Also, I can speak Portuguese, Japanese and English.
 
 </div>
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bdb511ee-117f-47ec-acbc-e320fac75ec4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnlf1990&layout=compact)](https://github.com/brnlf1990/github-readme-stats)
 
