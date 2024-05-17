@@ -3,6 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bruno-lopes-furuya-242021230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-lopes-furuya-242021230" height="30" width="40" /></a>
+  <a href="[https://linkedin.com/in/bruno-lopes-furuya-242021230](https://www.credly.com/badges/bdb511ee-117f-47ec-acbc-e320fac75ec4/public_url)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-lopes-furuya-242021230" height="30" width="40" /></a>
 </p>
 I have experience with HTML, JavaScript and CSS. With this expirience, I created a project(website) called Around US. This project started with HTML and CSS. I created the HTML structure using the BEM methodology and with CSS added styles for desktop and made the website responsive. Additionally, I added interactivity with JavaScript and implemented form validation. If the conditions are not met in the inputs, an error message appears below them.
 
@@ -24,7 +25,7 @@ Also, I can speak Portuguese, Japanese and English.
 <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-
+<img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 </div>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bdb511ee-117f-47ec-acbc-e320fac75ec4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
